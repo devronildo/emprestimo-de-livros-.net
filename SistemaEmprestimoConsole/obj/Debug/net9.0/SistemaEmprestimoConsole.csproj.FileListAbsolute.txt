@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\bin\Debug\net9.0\SistemaEmprestimoConsole.exe
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\bin\Debug\net9.0\SistemaEmprestimoConsole.deps.json
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\bin\Debug\net9.0\SistemaEmprestimoConsole.runtimeconfig.json
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\bin\Debug\net9.0\SistemaEmprestimoConsole.dll
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\bin\Debug\net9.0\SistemaEmprestimoConsole.pdb
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\obj\Debug\net9.0\SistemaEmprestimoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\obj\Debug\net9.0\SistemaEmprestimoConsole.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\obj\Debug\net9.0\SistemaEmprestimoConsole.AssemblyInfo.cs
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\obj\Debug\net9.0\SistemaEmprestimoConsole.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\obj\Debug\net9.0\SistemaEmprestimoConsole.dll
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\obj\Debug\net9.0\refint\SistemaEmprestimoConsole.dll
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\obj\Debug\net9.0\SistemaEmprestimoConsole.pdb
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\obj\Debug\net9.0\SistemaEmprestimoConsole.genruntimeconfig.cache
+C:\Users\pc\source\repos\SistemaEmprestimoConsole\SistemaEmprestimoConsole\obj\Debug\net9.0\ref\SistemaEmprestimoConsole.dll
